@@ -1,4 +1,4 @@
-### Oii! Eu sou Luana Chaves😊
+### Oii! Eu sou Luana Siqueira😊
 
 🔭 Desenvolvedora Java Full-Stack em formação
 😄 Pronouns: ela/dela
