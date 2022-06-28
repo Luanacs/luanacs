@@ -1,6 +1,6 @@
 ### Oii! Eu sou Luana Siqueira😊
 
-🔭 Desenvolvedora Java Full-Stack em formação
+🔭 Desenvolvedora Web Java Jr. Full-Stack
 😄 Pronouns: ela/dela
 
 
