@@ -16,9 +16,10 @@
   <img align="center" alt="Luana-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Luana-Angular" height="30" width="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luana-TypeScript" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-    badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Luana-TypeScript" height="30" width="50" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-    badge&logo=typescript&logoColor=white">
   <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Luana-Kotlin" height="30" width="50" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Luana-Kotlin" height="30" width="40" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   
 
